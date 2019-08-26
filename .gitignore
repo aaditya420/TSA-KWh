@@ -89,6 +89,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+env_py35/
 
 # Spyder project settings
 .spyderproject
@@ -102,3 +103,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Data
+data/
+images/
+models/
